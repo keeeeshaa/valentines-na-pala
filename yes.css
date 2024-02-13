@@ -1,0 +1,28 @@
+
+body{
+	
+	background: rgb(237, 152, 204);
+;
+}
+
+.kilig img{
+				width: 200px;
+}
+
+.kilig{
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				flex-direction: column;
+				gap:3em;
+}
+.tenor-gif-embed{
+	width: 250px;
+	height: 250px;
+
+}
+.ay{
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+	font-size: larger;
+	font-weight: bold;
+}
